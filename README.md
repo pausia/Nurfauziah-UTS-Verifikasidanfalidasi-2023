@@ -1,7 +1,7 @@
 # Absensi-Apps
 Hai, saya Nurfauziah Makmur bisa dipanggil pausia berikut tentang panduan penggunaan sourch code aplikasi.
 
-Aplikasi Absensi dengan Android Studio
+Aplikasi AbsensiPau dengan Android Studio
 Dimana ada 6 fiturnya yaitu:
 1. Login
 2. Absen Masuk

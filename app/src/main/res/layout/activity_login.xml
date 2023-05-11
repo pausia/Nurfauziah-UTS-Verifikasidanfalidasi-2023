@@ -29,8 +29,8 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginTop="10sp"
-                android:text="Welcome to"
-                android:textAllCaps="true"
+                android:text="Welcome to AbsensiPau"
+                android:textAllCaps="false"
                 android:textColor="@color/black"
                 android:textSize="20sp"
                 android:textStyle="bold" />
